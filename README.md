@@ -4,9 +4,7 @@ This is a basic static website hosted on **Amazon S3** as part of my cloud portf
 
 ## 🔗 Live Website
 
-[Click here to view it](http://Essie-static-site.s3-website-<your-region>.amazonaws.com)
-
-> Replace `<your-region>` with the correct AWS region code (e.g. `us-east-1`, `eu-west-1`, etc.)
+[Click here to view it](http://essie-static-site.s3-website-us-east-1.amazonaws.com)
 
 ## 🛠️ Technologies Used
 
