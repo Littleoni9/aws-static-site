@@ -24,4 +24,4 @@ This is a basic static website hosted on **Amazon S3** as part of my cloud portf
 
 - Add styling with CSS
 - Add CloudFront for HTTPS and faster delivery
-- Link to a custom domain
+- Link to a custom domain (e.g. www.essieportfolio.com)
